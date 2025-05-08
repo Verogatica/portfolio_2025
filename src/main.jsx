@@ -10,6 +10,5 @@ import UnderConstruction from './pages/UnderConstruction.jsx';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
         <UnderConstruction></UnderConstruction>
-
   </React.StrictMode>,
 )
